@@ -1,6 +1,10 @@
 # Ignore IDE Folders
 .idea/
 
+# Ignore debugger configuration files.
+.gdbrc
+.pdbrc
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
